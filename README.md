@@ -17,11 +17,17 @@ Automatizar la modificación de políticas de acceso para desconectar dispositiv
 
 Estructura del Repositorio
 /src – Contiene el código fuente del proyecto, organizado en módulos para la autenticación, registro de dispositivos, análisis de tráfico y gestión de políticas.
+
 /docs – Documentación del proyecto, incluyendo diagramas, justificación técnica y guías de uso.
+
 /tests – Pruebas unitarias e integradas para asegurar el correcto funcionamiento de cada componente.
+
 README.md – Este archivo, que explica el propósito, la estructura y el funcionamiento del proyecto.
+
 LICENSE – Archivo de licencia, en el que se especifica cómo se puede utilizar, modificar y distribuir el código.
+
 Conclusión
+
 Este proyecto integra diversas tecnologías y metodologías con el fin de crear una solución robusta y escalable para la seguridad en redes. Con la integración de ClearPass, FastAPI, PostgreSQL y técnicas de inteligencia artificial, se busca no solo autenticar y registrar dispositivos de forma segura, sino también monitorizar y responder de manera proactiva ante amenazas.
 
 ¡Gracias por tu interés en mi TFG!
