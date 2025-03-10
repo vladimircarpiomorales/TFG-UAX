@@ -18,9 +18,9 @@ Automatizar la modificación de políticas de acceso para desconectar dispositiv
 Estructura del Repositorio
 /src – Contiene el código fuente del proyecto, organizado en módulos para la autenticación, registro de dispositivos, análisis de tráfico y gestión de políticas.
 
-/docs – Documentación del proyecto, incluyendo diagramas, justificación técnica y guías de uso.
+/Documentos – Documentación del proyecto, incluyendo diagramas, justificación técnica y guías de uso.
 
-/tests – Pruebas unitarias e integradas para asegurar el correcto funcionamiento de cada componente.
+/Pruebas – Pruebas unitarias e integradas para asegurar el correcto funcionamiento de cada componente.
 
 README.md – Este archivo, que explica el propósito, la estructura y el funcionamiento del proyecto.
 
